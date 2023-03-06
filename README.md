@@ -6,5 +6,5 @@
 # 저자 윤복원
 한겨레 미래&과학: [윤복원의 물리상식으로 푸는 요즘 세상](https://www.hani.co.kr/arti/SERIES/1065/home01.html) <br>
 한겨레 사이언스온: [윤복원의 "물리상식 마당"](http://scienceon.hani.co.kr/?category=167565&mid=media) <br>
-[페이스북 계정](facebook.com/bwyoon68) <br>
+[페이스북 계정](https://facebook.com/bwyoon68) <br>
 [발표논문 목록](https://scholar.google.com/citations?user=Ihd7WzsAAAAJ) <br>
