@@ -7,7 +7,7 @@
 한겨레 미래&과학: [윤복원의 물리상식으로 푸는 요즘 세상](https://www.hani.co.kr/arti/SERIES/1065/home01.html) <br>
 한겨레 사이언스온: [윤복원의 "물리상식 마당"](http://scienceon.hani.co.kr/?category=167565&mid=media) <br>
 페이스북 과학/데이터 관련 포스트: [페이스북 바로가기](https://facebook.com/bwyoon68) <br>
-발표논문 목록: [구글 스칼라](https://scholar.google.com/citations?user=Ihd7WzsAAAAJ) <br>
+발표논문 목록: [구글 스칼라 ](https://scholar.google.com/citations?user=Ihd7WzsAAAAJ) <br>
 
 #### 소프트웨어
 - IntelligentView : 과학용 영상분석 소프트웨어 (1997년 첫 버전 개발) [GitHub 바로가기](https://github.com/bwyoon/intelligentview)
