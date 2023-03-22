@@ -1,7 +1,8 @@
 # 우주탐사의 물리학
 **현실과 SF를 넘나드는 외계행성 탐사 가이드** <br>
-2023년 3월 22일 출판 <br>
+2023년 3월 28일 출판 <br>
 책 구입: [예스24](yes24.com), [알라딘](aladdin.co.kr), [교보문고](kyobobook.co.kr) <br>
+키워드 찾아보기: [PDF](https://github.com/bwyoon/space-exploration/blob/main/%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B0%BE%EC%95%84%EB%B3%B4%EA%B8%B0.pdf) 
 
 ## 윤복원
 한겨레 미래&과학: [윤복원의 물리상식으로 푸는 요즘 세상](https://www.hani.co.kr/arti/SERIES/1065/home01.html) <br>
