@@ -3,7 +3,8 @@
 2023년 3월 28일 출판 <br>
 책 구입: [예스24](yes24.com), [알라딘](aladdin.co.kr), [교보문고](kyobobook.co.kr) <br>
 키워드 찾아보기: [PDF](https://github.com/bwyoon/space-exploration/blob/main/%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B0%BE%EC%95%84%EB%B3%B4%EA%B8%B0.pdf) <br>
-저자 윤복원의 페이스북을 팔로우해주세요. 우주와 관련된 새로운 뉴스가 나오면 책의 어느 부분을 읽어야 하는지 알려드립니다. [페이스북 바로가기](https://facebook.com/bwyoon68)
+저자 윤복원의 페이스북을 팔로우해주세요. 우주와 관련된 새로운 뉴스가 나오면 책의 어느 부분을 읽어야 하는지 알려드립니다. <br>
+[페이스북 바로가기](https://facebook.com/bwyoon68)
 
 ## 윤복원
 한겨레 미래&과학: [윤복원의 물리상식으로 푸는 요즘 세상](https://www.hani.co.kr/arti/SERIES/1065/home01.html) <br>
